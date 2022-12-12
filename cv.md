@@ -12,8 +12,9 @@ function multiply(a, b){
   a * b
 }
 ```
-## **Courses:** JS/PE Pre-School 2022Q4
-## **Languages:##
+## **Courses:** 
+JS/PE Pre-School 2022Q4
+## **Languages:**
 * Russian - Native
 * Polish - A2
 * English - A2
