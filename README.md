@@ -1,1 +1,1 @@
-# rsschool-cv
+https://astya-gal94.github.io/rsschool-cv/cv
